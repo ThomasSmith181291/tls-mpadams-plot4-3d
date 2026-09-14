@@ -5,10 +5,9 @@
   "job": "MP Adams Plot 4, Eckington",
   "number_prefix": "P4",
   "status": "CONSTRUCTION",
-  "revision": "C01",
+  "revision": "C02",
   "engineer_ref": "26-431-S-0010",
   "engineer_rev": "P01",
-  "model_title": "MP Adams Plot 4 NEW TLS TIMBER FRAME DEVELOPMENT",
   "plan_scale": 75,
   "elevation_scale": 75,
   "sections": {
@@ -24,7 +23,20 @@
      0.0
     ]
    }
-  }
+  },
+  "revisions": [
+   [
+    "C01",
+    "14.09.26",
+    "Construction issue"
+   ],
+   [
+    "C02",
+    "14.09.26",
+    "Roof trusses revised; SP diagonals added"
+   ]
+  ],
+  "model_title": "MP Adams Plot 4 NEW TLS TIMBER FRAME DEVELOPMENT"
  },
  "views": [
   {
@@ -130,8 +142,8 @@
   }
  ],
  "download_all": {
-  "file": "downloads/MP Adams Plot 4 - Construction Issue C01.zip",
-  "bytes": 19989654,
+  "file": "downloads/MP Adams Plot 4 - Construction Issue C02.zip",
+  "bytes": 20033122,
   "count": 36,
   "title": "Download everything"
  },
@@ -190,7 +202,7 @@
      "glb": "stage-4.glb",
      "part": null,
      "label": null,
-     "bytes": 175544
+     "bytes": 181568
     }
    ]
   },
@@ -203,7 +215,7 @@
      "glb": "stage-5.glb",
      "part": null,
      "label": null,
-     "bytes": 161612
+     "bytes": 166888
     }
    ]
   }
@@ -219,7 +231,7 @@
      "file": "docs/drawings/P4-SP-01 Ground Floor Sole Plate Setting Out.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-SP-01.png",
-     "bytes": 172268,
+     "bytes": 174694,
      "number": "P4-SP-01",
      "view": "stage-1",
      "view_opts": {}
@@ -230,7 +242,7 @@
      "file": "docs/drawings/P4-GA-01 Ground Floor General Arrangement.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-GA-01.png",
-     "bytes": 881001,
+     "bytes": 881076,
      "number": "P4-GA-01",
      "view": "stage-2",
      "view_opts": {}
@@ -241,7 +253,7 @@
      "file": "docs/drawings/P4-FL-01 First Floor Structure.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-FL-01.png",
-     "bytes": 163990,
+     "bytes": 164071,
      "number": "P4-FL-01",
      "view": "stage-3",
      "view_opts": {
@@ -254,7 +266,7 @@
      "file": "docs/drawings/P4-GA-02 First Floor General Arrangement.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-GA-02.png",
-     "bytes": 171021,
+     "bytes": 171323,
      "number": "P4-GA-02",
      "view": "stage-4",
      "view_opts": {}
@@ -265,7 +277,7 @@
      "file": "docs/drawings/P4-GA-03 Gable Panels General Arrangement.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-GA-03.png",
-     "bytes": 158937,
+     "bytes": 159004,
      "number": "P4-GA-03",
      "view": "stage-5",
      "view_opts": {}
@@ -276,7 +288,7 @@
      "file": "docs/drawings/P4-RF-01 Roof Ceiling Level.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-RF-01.png",
-     "bytes": 157927,
+     "bytes": 158616,
      "number": "P4-RF-01",
      "view": "stage-5",
      "view_opts": {}
@@ -287,7 +299,7 @@
      "file": "docs/drawings/P4-RF-02 Roof Truss Layout.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-RF-02.png",
-     "bytes": 158120,
+     "bytes": 158869,
      "number": "P4-RF-02",
      "view": "stage-5",
      "view_opts": {}
@@ -298,7 +310,7 @@
      "file": "docs/drawings/P4-RF-03 Truss Profiles.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-RF-03.png",
-     "bytes": 161153,
+     "bytes": 160308,
      "number": "P4-RF-03",
      "view": "stage-5",
      "view_opts": {}
@@ -309,7 +321,7 @@
      "file": "docs/drawings/P4-SE-01 Section A-A.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-SE-01.png",
-     "bytes": 157519,
+     "bytes": 157849,
      "number": "P4-SE-01",
      "view": "section-A",
      "view_opts": {}
@@ -320,7 +332,7 @@
      "file": "docs/drawings/P4-EL-01 Front Elevation.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-EL-01.png",
-     "bytes": 185947,
+     "bytes": 186394,
      "number": "P4-EL-01",
      "view": "elev-S",
      "view_opts": {}
@@ -331,7 +343,7 @@
      "file": "docs/drawings/P4-EL-02 Side Elevation East.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-EL-02.png",
-     "bytes": 182487,
+     "bytes": 185343,
      "number": "P4-EL-02",
      "view": "elev-E",
      "view_opts": {}
@@ -342,7 +354,7 @@
      "file": "docs/drawings/P4-EL-03 Rear Elevation.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-EL-03.png",
-     "bytes": 186179,
+     "bytes": 186568,
      "number": "P4-EL-03",
      "view": "elev-N",
      "view_opts": {}
@@ -353,7 +365,7 @@
      "file": "docs/drawings/P4-EL-04 Side Elevation West.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-EL-04.png",
-     "bytes": 182886,
+     "bytes": 185781,
      "number": "P4-EL-04",
      "view": "elev-W",
      "view_opts": {}
@@ -362,7 +374,7 @@
    "note": "A3 construction issue. Each sheet's title block QR opens it here.",
    "zip": {
     "file": "downloads/P4 Construction drawings.zip",
-    "bytes": 2291299,
+    "bytes": 2299202,
     "count": 13
    }
   },
@@ -426,7 +438,7 @@
      "file": "docs/manufacture/P4-MF GB EX Panels (15).pdf",
      "pages": 15,
      "thumb": "thumbs/P4-MF-GB-EX-Panels-15.png",
-     "bytes": 143320,
+     "bytes": 143618,
      "subtitle": "15 panels, one sheet each",
      "panels": [
       {
@@ -497,7 +509,7 @@
      "file": "docs/manufacture/P4-MF FF EX Panels (22).pdf",
      "pages": 22,
      "thumb": "thumbs/P4-MF-FF-EX-Panels-22.png",
-     "bytes": 230444,
+     "bytes": 232909,
      "subtitle": "22 panels, one sheet each",
      "panels": [
       {
@@ -596,7 +608,7 @@
      "file": "docs/manufacture/P4-MF FF IN Panels (16).pdf",
      "pages": 16,
      "thumb": "thumbs/P4-MF-FF-IN-Panels-16.png",
-     "bytes": 189418,
+     "bytes": 189717,
      "subtitle": "16 panels, one sheet each",
      "panels": [
       {
@@ -671,7 +683,7 @@
      "file": "docs/manufacture/P4-MF GF EX Panels (37).pdf",
      "pages": 37,
      "thumb": "thumbs/P4-MF-GF-EX-Panels-37.png",
-     "bytes": 403650,
+     "bytes": 404380,
      "subtitle": "37 panels, one sheet each",
      "panels": [
       {
@@ -830,7 +842,7 @@
      "file": "docs/manufacture/P4-MF GF IL Panels (5).pdf",
      "pages": 5,
      "thumb": "thumbs/P4-MF-GF-IL-Panels-5.png",
-     "bytes": 89460,
+     "bytes": 89560,
      "subtitle": "5 panels, one sheet each",
      "panels": [
       {
@@ -861,7 +873,7 @@
      "file": "docs/manufacture/P4-MF GF IN Panels (7).pdf",
      "pages": 7,
      "thumb": "thumbs/P4-MF-GF-IN-Panels-7.png",
-     "bytes": 108690,
+     "bytes": 108818,
      "subtitle": "7 panels, one sheet each",
      "panels": [
       {
@@ -898,7 +910,7 @@
    "note": "Panel fabrication drawings, one sheet per panel, set by level and panel type. Tap a panel mark to open its sheet.",
    "zip": {
     "file": "downloads/P4 Fabrication drawings.zip",
-    "bytes": 940956,
+    "bytes": 944875,
     "count": 6
    }
   },
@@ -908,27 +920,27 @@
    "docs": [
     {
      "id": "P4-CP-OSB",
-     "title": "OSB Cutting Pack",
-     "file": "docs/cutting/P4-CP-OSB OSB Cutting Pack C01.pdf",
+     "title": "OSB Cutting Pack C02",
+     "file": "docs/cutting/P4-CP-OSB OSB Cutting Pack C02.pdf",
      "pages": 102,
      "thumb": "thumbs/P4-CP-OSB.png",
-     "bytes": 1095716,
+     "bytes": 1103737,
      "number": "P4-CP-OSB"
     },
     {
      "id": "P4-CP-PIR",
-     "title": "PIR Cutting Pack",
-     "file": "docs/cutting/P4-CP-PIR PIR Cutting Pack C01.pdf",
+     "title": "PIR Cutting Pack C02",
+     "file": "docs/cutting/P4-CP-PIR PIR Cutting Pack C02.pdf",
      "pages": 74,
      "thumb": "thumbs/P4-CP-PIR.png",
-     "bytes": 958683,
+     "bytes": 970643,
      "number": "P4-CP-PIR"
     }
    ],
    "note": "OSB and PIR sheets nested for cutting: one stock sheet per page.",
    "zip": {
     "file": "downloads/P4 Cutting packs.zip",
-    "bytes": 1600517,
+    "bytes": 1620859,
     "count": 2
    }
   },
@@ -939,7 +951,7 @@
     {
      "id": "P4-PR-01",
      "title": "Procurement schedule",
-     "file": "docs/procurement/P4-PR-01 Procurement Schedule C01.pdf",
+     "file": "docs/procurement/P4-PR-01 Procurement Schedule C02.pdf",
      "pages": 4,
      "thumb": "thumbs/P4-PR-01.png",
      "bytes": 159533,
@@ -949,13 +961,13 @@
    "downloads": [
     {
      "title": "Procurement schedule (Excel)",
-     "file": "docs/procurement/P4-PR-01 Procurement Schedule C01.xlsx"
+     "file": "docs/procurement/P4-PR-01 Procurement Schedule C02.xlsx"
     }
    ],
    "note": "All materials with waste, split by stock size and by section.",
    "zip": {
     "file": "downloads/P4 Procurement.zip",
-    "bytes": 141534,
+    "bytes": 141545,
     "count": 2
    }
   },
@@ -969,20 +981,20 @@
      "file": "docs/issue/P4-QR-01 Build Sequence QR Codes.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-QR-01.png",
-     "bytes": 205272,
+     "bytes": 205333,
      "number": "P4-QR-01"
     }
    ],
    "downloads": [
     {
      "title": "All construction drawings (one PDF)",
-     "file": "docs/issue/P4 Construction Drawings C01 (combined set).pdf"
+     "file": "docs/issue/P4 Construction Drawings C02 (combined set).pdf"
     }
    ],
    "note": "The build sequence QR sheet, the 3D stage files, and every construction drawing in one PDF.",
    "zip": {
     "file": "downloads/P4 QR codes + full set.zip",
-    "bytes": 9598233,
+    "bytes": 9602381,
     "count": 8
    }
   }
