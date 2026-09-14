@@ -1,0 +1,77 @@
+{
+ "job": "MP Adams Plot 4, Eckington",
+ "revision": "C01",
+ "stages": [
+  {
+   "n": 1,
+   "title": "Sole plates",
+   "desc": "Ground floor sole plates set out and fixed on the DPC (P4-SP-01).",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 226188
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground floor panels + beams over",
+   "desc": "GF panels, head binder, glulam beams and steel over (P4-GA-01).",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 4194012
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First floor structure",
+   "desc": "Edgebinder, metal-web joists, strongbacks, hangers and 22mm deck (P4-FL-01).",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 4254616
+    },
+    {
+     "glb": "stage-3-deck.glb",
+     "part": "deck",
+     "label": "Deck",
+     "bytes": 3973976
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "First floor panels",
+   "desc": "FF panels, head binder and steel over (P4-GA-02).",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 175544
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Gables + roof",
+   "desc": "Gable panels, attic trusses and cut roof (P4-GA-03, P4-RF-01..03).",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 161612
+    }
+   ]
+  }
+ ]
+}

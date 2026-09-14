@@ -1,0 +1,990 @@
+{
+ "portal": "TLS Project Environment",
+ "project": {
+  "client": "MP Adams",
+  "job": "MP Adams Plot 4, Eckington",
+  "number_prefix": "P4",
+  "status": "CONSTRUCTION",
+  "revision": "C01",
+  "engineer_ref": "26-431-S-0010",
+  "engineer_rev": "P01",
+  "model_title": "MP Adams Plot 4 NEW TLS TIMBER FRAME DEVELOPMENT",
+  "plan_scale": 75,
+  "elevation_scale": 75,
+  "sections": {
+   "A": {
+    "title": "Section A-A",
+    "sub": "Main building through the lounge and master bedroom, looking west",
+    "origin": [
+     12420.0,
+     0.0
+    ],
+    "look": [
+     -1.0,
+     0.0
+    ]
+   }
+  }
+ },
+ "views": [
+  {
+   "id": "stage-1",
+   "kind": "stage",
+   "n": 1,
+   "title": "Sole plates",
+   "desc": "Ground floor sole plates set out and fixed on the DPC (P4-SP-01)."
+  },
+  {
+   "id": "stage-2",
+   "kind": "stage",
+   "n": 2,
+   "title": "Ground floor panels + beams over",
+   "desc": "GF panels, head binder, glulam beams and steel over (P4-GA-01)."
+  },
+  {
+   "id": "stage-3",
+   "kind": "stage",
+   "n": 3,
+   "title": "First floor structure",
+   "desc": "Edgebinder, metal-web joists, strongbacks, hangers and 22mm deck (P4-FL-01)."
+  },
+  {
+   "id": "stage-4",
+   "kind": "stage",
+   "n": 4,
+   "title": "First floor panels",
+   "desc": "FF panels, head binder and steel over (P4-GA-02)."
+  },
+  {
+   "id": "stage-5",
+   "kind": "stage",
+   "n": 5,
+   "title": "Gables + roof",
+   "desc": "Gable panels, attic trusses and cut roof (P4-GA-03, P4-RF-01..03)."
+  },
+  {
+   "id": "section-A",
+   "kind": "section",
+   "n": 5,
+   "title": "Section A-A",
+   "desc": "Main building through the lounge and master bedroom, looking west. Cut through the full model at the architect's section line (P4-SE-01); slide the cut to move it.",
+   "normal": [
+    -1.0,
+    0.0,
+    -0.0
+   ],
+   "point": [
+    12.42,
+    0.0,
+    -0.0
+   ],
+   "drawing": "P4-SE-01"
+  },
+  {
+   "id": "elev-S",
+   "kind": "elevation",
+   "n": 5,
+   "title": "Front elevation",
+   "desc": "Complete frame seen from the elevation.",
+   "dir": [
+    0.0,
+    0.12,
+    1.0
+   ]
+  },
+  {
+   "id": "elev-E",
+   "kind": "elevation",
+   "n": 5,
+   "title": "Side elevation east",
+   "desc": "Complete frame seen from the east.",
+   "dir": [
+    1.0,
+    0.12,
+    0.0
+   ]
+  },
+  {
+   "id": "elev-N",
+   "kind": "elevation",
+   "n": 5,
+   "title": "Rear elevation",
+   "desc": "Complete frame seen from the elevation.",
+   "dir": [
+    0.0,
+    0.12,
+    -1.0
+   ]
+  },
+  {
+   "id": "elev-W",
+   "kind": "elevation",
+   "n": 5,
+   "title": "Side elevation west",
+   "desc": "Complete frame seen from the west.",
+   "dir": [
+    -1.0,
+    0.12,
+    0.0
+   ]
+  }
+ ],
+ "download_all": {
+  "file": "downloads/MP Adams Plot 4 - Construction Issue C01.zip",
+  "bytes": 19989654,
+  "count": 36,
+  "title": "Download everything"
+ },
+ "stages": [
+  {
+   "n": 1,
+   "title": "Sole plates",
+   "desc": "Ground floor sole plates set out and fixed on the DPC (P4-SP-01).",
+   "files": [
+    {
+     "glb": "stage-1.glb",
+     "part": null,
+     "label": null,
+     "bytes": 226188
+    }
+   ]
+  },
+  {
+   "n": 2,
+   "title": "Ground floor panels + beams over",
+   "desc": "GF panels, head binder, glulam beams and steel over (P4-GA-01).",
+   "files": [
+    {
+     "glb": "stage-2.glb",
+     "part": null,
+     "label": null,
+     "bytes": 4194012
+    }
+   ]
+  },
+  {
+   "n": 3,
+   "title": "First floor structure",
+   "desc": "Edgebinder, metal-web joists, strongbacks, hangers and 22mm deck (P4-FL-01).",
+   "files": [
+    {
+     "glb": "stage-3.glb",
+     "part": null,
+     "label": null,
+     "bytes": 4254616
+    },
+    {
+     "glb": "stage-3-deck.glb",
+     "part": "deck",
+     "label": "Deck",
+     "bytes": 3973976
+    }
+   ]
+  },
+  {
+   "n": 4,
+   "title": "First floor panels",
+   "desc": "FF panels, head binder and steel over (P4-GA-02).",
+   "files": [
+    {
+     "glb": "stage-4.glb",
+     "part": null,
+     "label": null,
+     "bytes": 175544
+    }
+   ]
+  },
+  {
+   "n": 5,
+   "title": "Gables + roof",
+   "desc": "Gable panels, attic trusses and cut roof (P4-GA-03, P4-RF-01..03).",
+   "files": [
+    {
+     "glb": "stage-5.glb",
+     "part": null,
+     "label": null,
+     "bytes": 161612
+    }
+   ]
+  }
+ ],
+ "groups": [
+  {
+   "id": "drawings",
+   "title": "Construction drawings",
+   "docs": [
+    {
+     "id": "P4-SP-01",
+     "title": "Ground Floor Sole Plate Setting Out",
+     "file": "docs/drawings/P4-SP-01 Ground Floor Sole Plate Setting Out.pdf",
+     "pages": 1,
+     "thumb": "thumbs/P4-SP-01.png",
+     "bytes": 172268,
+     "number": "P4-SP-01",
+     "view": "stage-1",
+     "view_opts": {}
+    },
+    {
+     "id": "P4-GA-01",
+     "title": "Ground Floor General Arrangement",
+     "file": "docs/drawings/P4-GA-01 Ground Floor General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/P4-GA-01.png",
+     "bytes": 881001,
+     "number": "P4-GA-01",
+     "view": "stage-2",
+     "view_opts": {}
+    },
+    {
+     "id": "P4-FL-01",
+     "title": "First Floor Structure",
+     "file": "docs/drawings/P4-FL-01 First Floor Structure.pdf",
+     "pages": 1,
+     "thumb": "thumbs/P4-FL-01.png",
+     "bytes": 163990,
+     "number": "P4-FL-01",
+     "view": "stage-3",
+     "view_opts": {
+      "deck": false
+     }
+    },
+    {
+     "id": "P4-GA-02",
+     "title": "First Floor General Arrangement",
+     "file": "docs/drawings/P4-GA-02 First Floor General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/P4-GA-02.png",
+     "bytes": 171021,
+     "number": "P4-GA-02",
+     "view": "stage-4",
+     "view_opts": {}
+    },
+    {
+     "id": "P4-GA-03",
+     "title": "Gable Panels General Arrangement",
+     "file": "docs/drawings/P4-GA-03 Gable Panels General Arrangement.pdf",
+     "pages": 1,
+     "thumb": "thumbs/P4-GA-03.png",
+     "bytes": 158937,
+     "number": "P4-GA-03",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "P4-RF-01",
+     "title": "Roof Ceiling Level",
+     "file": "docs/drawings/P4-RF-01 Roof Ceiling Level.pdf",
+     "pages": 1,
+     "thumb": "thumbs/P4-RF-01.png",
+     "bytes": 157927,
+     "number": "P4-RF-01",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "P4-RF-02",
+     "title": "Roof Truss Layout",
+     "file": "docs/drawings/P4-RF-02 Roof Truss Layout.pdf",
+     "pages": 1,
+     "thumb": "thumbs/P4-RF-02.png",
+     "bytes": 158120,
+     "number": "P4-RF-02",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "P4-RF-03",
+     "title": "Truss Profiles",
+     "file": "docs/drawings/P4-RF-03 Truss Profiles.pdf",
+     "pages": 1,
+     "thumb": "thumbs/P4-RF-03.png",
+     "bytes": 161153,
+     "number": "P4-RF-03",
+     "view": "stage-5",
+     "view_opts": {}
+    },
+    {
+     "id": "P4-SE-01",
+     "title": "Section A-A",
+     "file": "docs/drawings/P4-SE-01 Section A-A.pdf",
+     "pages": 1,
+     "thumb": "thumbs/P4-SE-01.png",
+     "bytes": 157519,
+     "number": "P4-SE-01",
+     "view": "section-A",
+     "view_opts": {}
+    },
+    {
+     "id": "P4-EL-01",
+     "title": "Front Elevation",
+     "file": "docs/drawings/P4-EL-01 Front Elevation.pdf",
+     "pages": 1,
+     "thumb": "thumbs/P4-EL-01.png",
+     "bytes": 185947,
+     "number": "P4-EL-01",
+     "view": "elev-S",
+     "view_opts": {}
+    },
+    {
+     "id": "P4-EL-02",
+     "title": "Side Elevation East",
+     "file": "docs/drawings/P4-EL-02 Side Elevation East.pdf",
+     "pages": 1,
+     "thumb": "thumbs/P4-EL-02.png",
+     "bytes": 182487,
+     "number": "P4-EL-02",
+     "view": "elev-E",
+     "view_opts": {}
+    },
+    {
+     "id": "P4-EL-03",
+     "title": "Rear Elevation",
+     "file": "docs/drawings/P4-EL-03 Rear Elevation.pdf",
+     "pages": 1,
+     "thumb": "thumbs/P4-EL-03.png",
+     "bytes": 186179,
+     "number": "P4-EL-03",
+     "view": "elev-N",
+     "view_opts": {}
+    },
+    {
+     "id": "P4-EL-04",
+     "title": "Side Elevation West",
+     "file": "docs/drawings/P4-EL-04 Side Elevation West.pdf",
+     "pages": 1,
+     "thumb": "thumbs/P4-EL-04.png",
+     "bytes": 182886,
+     "number": "P4-EL-04",
+     "view": "elev-W",
+     "view_opts": {}
+    }
+   ],
+   "note": "A3 construction issue. Each sheet's title block QR opens it here.",
+   "zip": {
+    "file": "downloads/P4 Construction drawings.zip",
+    "bytes": 2291299,
+    "count": 13
+   }
+  },
+  {
+   "id": "engineering",
+   "title": "Engineer's drawings",
+   "docs": [
+    {
+     "id": "26-431-S-0010",
+     "title": "Timber Frame Details - Sheet 1",
+     "file": "docs/engineering/26-431-S-0010 - Plot 4 - Timber Frame Details - Sheet 1_P01.pdf",
+     "pages": 1,
+     "thumb": "thumbs/26-431-S-0010.png",
+     "bytes": 702473,
+     "number": "26-431-S-0010",
+     "subtitle": "Rev P01"
+    },
+    {
+     "id": "26-431-S-0011",
+     "title": "Timber Frame Details - Sheet 2",
+     "file": "docs/engineering/26-431-S-0011 - Plot 4 - Timber Frame Details - Sheet 2_P01.pdf",
+     "pages": 1,
+     "thumb": "thumbs/26-431-S-0011.png",
+     "bytes": 2544508,
+     "number": "26-431-S-0011",
+     "subtitle": "Rev P01"
+    },
+    {
+     "id": "26-431-S-0012",
+     "title": "Load Mark-up",
+     "file": "docs/engineering/26-431-S-0012 - Plot 4 - Load Mark-up_P01.pdf",
+     "pages": 1,
+     "thumb": "thumbs/26-431-S-0012.png",
+     "bytes": 1596372,
+     "number": "26-431-S-0012",
+     "subtitle": "Rev P01"
+    },
+    {
+     "id": "2026-05-26-Structural-Issue-Register",
+     "title": "2026-05-26 Structural Issue Register",
+     "file": "docs/engineering/2026-05-26 Structural Issue Register.pdf",
+     "pages": 1,
+     "thumb": "thumbs/2026-05-26-Structural-Issue-Register.png",
+     "bytes": 184691
+    }
+   ],
+   "note": "Structural engineer's drawings and issue register, as received.",
+   "zip": {
+    "file": "downloads/P4 Engineers drawings.zip",
+    "bytes": 3136170,
+    "count": 4
+   }
+  },
+  {
+   "id": "manufacture",
+   "title": "Fabrication drawings",
+   "docs": [
+    {
+     "id": "P4-MF-GB-EX-Panels-15",
+     "title": "Gables EX panels",
+     "file": "docs/manufacture/P4-MF GB EX Panels (15).pdf",
+     "pages": 15,
+     "thumb": "thumbs/P4-MF-GB-EX-Panels-15.png",
+     "bytes": 143320,
+     "subtitle": "15 panels, one sheet each",
+     "panels": [
+      {
+       "name": "GB-EX1",
+       "page": 1
+      },
+      {
+       "name": "GB-EX2",
+       "page": 2
+      },
+      {
+       "name": "GB-EX3",
+       "page": 3
+      },
+      {
+       "name": "GB-EX4",
+       "page": 4
+      },
+      {
+       "name": "GB-EX5",
+       "page": 5
+      },
+      {
+       "name": "GB-EX6",
+       "page": 6
+      },
+      {
+       "name": "GB-EX7",
+       "page": 7
+      },
+      {
+       "name": "GB-EX8",
+       "page": 8
+      },
+      {
+       "name": "GB-EX9",
+       "page": 9
+      },
+      {
+       "name": "GB-EX10",
+       "page": 10
+      },
+      {
+       "name": "GB-EX11",
+       "page": 11
+      },
+      {
+       "name": "GB-EX12",
+       "page": 12
+      },
+      {
+       "name": "GB-EX13",
+       "page": 13
+      },
+      {
+       "name": "GB-EX14",
+       "page": 14
+      },
+      {
+       "name": "GB-EX15",
+       "page": 15
+      }
+     ]
+    },
+    {
+     "id": "P4-MF-FF-EX-Panels-22",
+     "title": "First Floor EX panels",
+     "file": "docs/manufacture/P4-MF FF EX Panels (22).pdf",
+     "pages": 22,
+     "thumb": "thumbs/P4-MF-FF-EX-Panels-22.png",
+     "bytes": 230444,
+     "subtitle": "22 panels, one sheet each",
+     "panels": [
+      {
+       "name": "FF-EX1",
+       "page": 1
+      },
+      {
+       "name": "FF-EX2",
+       "page": 2
+      },
+      {
+       "name": "FF-EX3",
+       "page": 3
+      },
+      {
+       "name": "FF-EX4",
+       "page": 4
+      },
+      {
+       "name": "FF-EX5",
+       "page": 5
+      },
+      {
+       "name": "FF-EX6",
+       "page": 6
+      },
+      {
+       "name": "FF-EX7",
+       "page": 7
+      },
+      {
+       "name": "FF-EX8",
+       "page": 8
+      },
+      {
+       "name": "FF-EX9",
+       "page": 9
+      },
+      {
+       "name": "FF-EX10",
+       "page": 10
+      },
+      {
+       "name": "FF-EX11",
+       "page": 11
+      },
+      {
+       "name": "FF-EX12",
+       "page": 12
+      },
+      {
+       "name": "FF-EX13",
+       "page": 13
+      },
+      {
+       "name": "FF-EX14",
+       "page": 14
+      },
+      {
+       "name": "FF-EX15",
+       "page": 15
+      },
+      {
+       "name": "FF-EX16",
+       "page": 16
+      },
+      {
+       "name": "FF-EX17",
+       "page": 17
+      },
+      {
+       "name": "FF-EX18",
+       "page": 18
+      },
+      {
+       "name": "FF-EX19",
+       "page": 19
+      },
+      {
+       "name": "FF-EX20",
+       "page": 20
+      },
+      {
+       "name": "FF-EX21",
+       "page": 21
+      },
+      {
+       "name": "FF-EX22",
+       "page": 22
+      }
+     ]
+    },
+    {
+     "id": "P4-MF-FF-IN-Panels-16",
+     "title": "First Floor IN panels",
+     "file": "docs/manufacture/P4-MF FF IN Panels (16).pdf",
+     "pages": 16,
+     "thumb": "thumbs/P4-MF-FF-IN-Panels-16.png",
+     "bytes": 189418,
+     "subtitle": "16 panels, one sheet each",
+     "panels": [
+      {
+       "name": "FF-IN1",
+       "page": 1
+      },
+      {
+       "name": "FF-IN2",
+       "page": 2
+      },
+      {
+       "name": "FF-IN3",
+       "page": 3
+      },
+      {
+       "name": "FF-IN4",
+       "page": 4
+      },
+      {
+       "name": "FF-IN5",
+       "page": 5
+      },
+      {
+       "name": "FF-IN6",
+       "page": 6
+      },
+      {
+       "name": "FF-IN7",
+       "page": 7
+      },
+      {
+       "name": "FF-IN8",
+       "page": 8
+      },
+      {
+       "name": "FF-IN9",
+       "page": 9
+      },
+      {
+       "name": "FF-IN10",
+       "page": 10
+      },
+      {
+       "name": "FF-IN11",
+       "page": 11
+      },
+      {
+       "name": "FF-IN12",
+       "page": 12
+      },
+      {
+       "name": "FF-IN13",
+       "page": 13
+      },
+      {
+       "name": "FF-IN14",
+       "page": 14
+      },
+      {
+       "name": "FF-IN15",
+       "page": 15
+      },
+      {
+       "name": "FF-IN16",
+       "page": 16
+      }
+     ]
+    },
+    {
+     "id": "P4-MF-GF-EX-Panels-37",
+     "title": "Ground Floor EX panels",
+     "file": "docs/manufacture/P4-MF GF EX Panels (37).pdf",
+     "pages": 37,
+     "thumb": "thumbs/P4-MF-GF-EX-Panels-37.png",
+     "bytes": 403650,
+     "subtitle": "37 panels, one sheet each",
+     "panels": [
+      {
+       "name": "GF-EX1",
+       "page": 1
+      },
+      {
+       "name": "GF-EX2",
+       "page": 2
+      },
+      {
+       "name": "GF-EX3",
+       "page": 3
+      },
+      {
+       "name": "GF-EX4",
+       "page": 4
+      },
+      {
+       "name": "GF-EX5",
+       "page": 5
+      },
+      {
+       "name": "GF-EX6",
+       "page": 6
+      },
+      {
+       "name": "GF-EX7",
+       "page": 7
+      },
+      {
+       "name": "GF-EX8",
+       "page": 8
+      },
+      {
+       "name": "GF-EX9",
+       "page": 9
+      },
+      {
+       "name": "GF-EX10",
+       "page": 10
+      },
+      {
+       "name": "GF-EX11",
+       "page": 11
+      },
+      {
+       "name": "GF-EX12",
+       "page": 12
+      },
+      {
+       "name": "GF-EX13",
+       "page": 13
+      },
+      {
+       "name": "GF-EX14",
+       "page": 14
+      },
+      {
+       "name": "GF-EX15",
+       "page": 15
+      },
+      {
+       "name": "GF-EX16",
+       "page": 16
+      },
+      {
+       "name": "GF-EX17",
+       "page": 17
+      },
+      {
+       "name": "GF-EX18",
+       "page": 18
+      },
+      {
+       "name": "GF-EX19",
+       "page": 19
+      },
+      {
+       "name": "GF-EX20",
+       "page": 20
+      },
+      {
+       "name": "GF-EX21",
+       "page": 21
+      },
+      {
+       "name": "GF-EX22",
+       "page": 22
+      },
+      {
+       "name": "GF-EX23",
+       "page": 23
+      },
+      {
+       "name": "GF-EX24",
+       "page": 24
+      },
+      {
+       "name": "GF-EX25",
+       "page": 25
+      },
+      {
+       "name": "GF-EX26",
+       "page": 26
+      },
+      {
+       "name": "GF-EX27",
+       "page": 27
+      },
+      {
+       "name": "GF-EX28",
+       "page": 28
+      },
+      {
+       "name": "GF-EX29",
+       "page": 29
+      },
+      {
+       "name": "GF-EX30",
+       "page": 30
+      },
+      {
+       "name": "GF-EX31",
+       "page": 31
+      },
+      {
+       "name": "GF-EX32",
+       "page": 32
+      },
+      {
+       "name": "GF-EX33",
+       "page": 33
+      },
+      {
+       "name": "GF-EX34",
+       "page": 34
+      },
+      {
+       "name": "GF-EX35",
+       "page": 35
+      },
+      {
+       "name": "GF-EX36",
+       "page": 36
+      },
+      {
+       "name": "GF-EX37",
+       "page": 37
+      }
+     ]
+    },
+    {
+     "id": "P4-MF-GF-IL-Panels-5",
+     "title": "Ground Floor IL panels",
+     "file": "docs/manufacture/P4-MF GF IL Panels (5).pdf",
+     "pages": 5,
+     "thumb": "thumbs/P4-MF-GF-IL-Panels-5.png",
+     "bytes": 89460,
+     "subtitle": "5 panels, one sheet each",
+     "panels": [
+      {
+       "name": "GF-IL1",
+       "page": 1
+      },
+      {
+       "name": "GF-IL2",
+       "page": 2
+      },
+      {
+       "name": "GF-IL3",
+       "page": 3
+      },
+      {
+       "name": "GF-IL4",
+       "page": 4
+      },
+      {
+       "name": "GF-IL5",
+       "page": 5
+      }
+     ]
+    },
+    {
+     "id": "P4-MF-GF-IN-Panels-7",
+     "title": "Ground Floor IN panels",
+     "file": "docs/manufacture/P4-MF GF IN Panels (7).pdf",
+     "pages": 7,
+     "thumb": "thumbs/P4-MF-GF-IN-Panels-7.png",
+     "bytes": 108690,
+     "subtitle": "7 panels, one sheet each",
+     "panels": [
+      {
+       "name": "GF-IN1",
+       "page": 1
+      },
+      {
+       "name": "GF-IN2",
+       "page": 2
+      },
+      {
+       "name": "GF-IN3",
+       "page": 3
+      },
+      {
+       "name": "GF-IN4",
+       "page": 4
+      },
+      {
+       "name": "GF-IN5",
+       "page": 5
+      },
+      {
+       "name": "GF-IN6",
+       "page": 6
+      },
+      {
+       "name": "GF-IN7",
+       "page": 7
+      }
+     ]
+    }
+   ],
+   "note": "Panel fabrication drawings, one sheet per panel, set by level and panel type. Tap a panel mark to open its sheet.",
+   "zip": {
+    "file": "downloads/P4 Fabrication drawings.zip",
+    "bytes": 940956,
+    "count": 6
+   }
+  },
+  {
+   "id": "cutting",
+   "title": "Cutting packs",
+   "docs": [
+    {
+     "id": "P4-CP-OSB",
+     "title": "OSB Cutting Pack",
+     "file": "docs/cutting/P4-CP-OSB OSB Cutting Pack C01.pdf",
+     "pages": 102,
+     "thumb": "thumbs/P4-CP-OSB.png",
+     "bytes": 1095716,
+     "number": "P4-CP-OSB"
+    },
+    {
+     "id": "P4-CP-PIR",
+     "title": "PIR Cutting Pack",
+     "file": "docs/cutting/P4-CP-PIR PIR Cutting Pack C01.pdf",
+     "pages": 74,
+     "thumb": "thumbs/P4-CP-PIR.png",
+     "bytes": 958683,
+     "number": "P4-CP-PIR"
+    }
+   ],
+   "note": "OSB and PIR sheets nested for cutting: one stock sheet per page.",
+   "zip": {
+    "file": "downloads/P4 Cutting packs.zip",
+    "bytes": 1600517,
+    "count": 2
+   }
+  },
+  {
+   "id": "procurement",
+   "title": "Procurement",
+   "docs": [
+    {
+     "id": "P4-PR-01",
+     "title": "Procurement schedule",
+     "file": "docs/procurement/P4-PR-01 Procurement Schedule C01.pdf",
+     "pages": 4,
+     "thumb": "thumbs/P4-PR-01.png",
+     "bytes": 159533,
+     "number": "P4-PR-01"
+    }
+   ],
+   "downloads": [
+    {
+     "title": "Procurement schedule (Excel)",
+     "file": "docs/procurement/P4-PR-01 Procurement Schedule C01.xlsx"
+    }
+   ],
+   "note": "All materials with waste, split by stock size and by section.",
+   "zip": {
+    "file": "downloads/P4 Procurement.zip",
+    "bytes": 141534,
+    "count": 2
+   }
+  },
+  {
+   "id": "issue",
+   "title": "QR codes + full set",
+   "docs": [
+    {
+     "id": "P4-QR-01",
+     "title": "Build sequence QR codes",
+     "file": "docs/issue/P4-QR-01 Build Sequence QR Codes.pdf",
+     "pages": 1,
+     "thumb": "thumbs/P4-QR-01.png",
+     "bytes": 205272,
+     "number": "P4-QR-01"
+    }
+   ],
+   "downloads": [
+    {
+     "title": "All construction drawings (one PDF)",
+     "file": "docs/issue/P4 Construction Drawings C01 (combined set).pdf"
+    }
+   ],
+   "note": "The build sequence QR sheet, the 3D stage files, and every construction drawing in one PDF.",
+   "zip": {
+    "file": "downloads/P4 QR codes + full set.zip",
+    "bytes": 9598233,
+    "count": 8
+   }
+  }
+ ]
+}
