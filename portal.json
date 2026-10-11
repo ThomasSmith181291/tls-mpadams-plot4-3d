@@ -243,7 +243,7 @@
  ],
  "download_all": {
   "file": "downloads/MP Adams Plot 4 - Construction Issue C03.zip",
-  "bytes": 26679532,
+  "bytes": 26700110,
   "count": 61,
   "title": "Download everything"
  },
@@ -476,7 +476,7 @@
      "file": "docs/drawings/P4-EL-01 Front Elevation.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-EL-01.png",
-     "bytes": 186565,
+     "bytes": 191059,
      "number": "P4-EL-01",
      "view": "elev-S",
      "view_opts": {}
@@ -487,7 +487,7 @@
      "file": "docs/drawings/P4-EL-02 Side Elevation East.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-EL-02.png",
-     "bytes": 185427,
+     "bytes": 185631,
      "number": "P4-EL-02",
      "view": "elev-E",
      "view_opts": {}
@@ -498,7 +498,7 @@
      "file": "docs/drawings/P4-EL-03 Rear Elevation.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-EL-03.png",
-     "bytes": 186686,
+     "bytes": 192879,
      "number": "P4-EL-03",
      "view": "elev-N",
      "view_opts": {}
@@ -509,7 +509,7 @@
      "file": "docs/drawings/P4-EL-04 Side Elevation West.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-EL-04.png",
-     "bytes": 185831,
+     "bytes": 187532,
      "number": "P4-EL-04",
      "view": "elev-W",
      "view_opts": {}
@@ -518,7 +518,7 @@
    "note": "A3 construction issue. Each sheet's title block QR opens it here.",
    "zip": {
     "file": "downloads/P4 Construction drawings.zip",
-    "bytes": 5608920,
+    "bytes": 5619080,
     "count": 38
    }
   },
@@ -706,7 +706,7 @@
    "note": "Steelwork GA, one fabrication sheet per member, connection details and the bolt / timber schedule. Sheets stamped FOR ENGINEERS REVIEW are TLS proposals awaiting the engineer.",
    "zip": {
     "file": "downloads/P4 Steel fabrication drawings.zip",
-    "bytes": 2128906,
+    "bytes": 2128901,
     "count": 16
    }
   },
@@ -1309,7 +1309,7 @@
    "note": "Panel fabrication drawings, one sheet per panel, set by level and panel type. Tap a panel mark to open its sheet.",
    "zip": {
     "file": "downloads/P4 Fabrication drawings.zip",
-    "bytes": 948057,
+    "bytes": 948061,
     "count": 6
    }
   },
@@ -1339,7 +1339,7 @@
    "note": "OSB and PIR sheets nested for cutting: one stock sheet per page.",
    "zip": {
     "file": "downloads/P4 Cutting packs.zip",
-    "bytes": 1628799,
+    "bytes": 1628797,
     "count": 2
    }
   },
@@ -1366,7 +1366,7 @@
    "note": "All materials with waste, split by stock size and by section.",
    "zip": {
     "file": "downloads/P4 Procurement.zip",
-    "bytes": 158125,
+    "bytes": 158124,
     "count": 2
    }
   },
@@ -1393,7 +1393,7 @@
    "note": "The build sequence QR sheet, the 3D stage files, and every construction drawing in one PDF.",
    "zip": {
     "file": "downloads/P4 QR codes + full set.zip",
-    "bytes": 9627941,
+    "bytes": 9627943,
     "count": 8
    }
   }
