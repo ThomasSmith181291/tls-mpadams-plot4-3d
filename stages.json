@@ -1,6 +1,6 @@
 {
  "job": "MP Adams Plot 4, Eckington",
- "revision": "C02",
+ "revision": "C03",
  "stages": [
   {
    "n": 1,
@@ -11,7 +11,7 @@
      "glb": "stage-1.glb",
      "part": null,
      "label": null,
-     "bytes": 226188
+     "bytes": 226744
     }
    ]
   },
@@ -24,7 +24,7 @@
      "glb": "stage-2.glb",
      "part": null,
      "label": null,
-     "bytes": 4194012
+     "bytes": 4264120
     }
    ]
   },
@@ -37,7 +37,7 @@
      "glb": "stage-3.glb",
      "part": null,
      "label": null,
-     "bytes": 4254616
+     "bytes": 4260452
     },
     {
      "glb": "stage-3-deck.glb",
@@ -56,7 +56,7 @@
      "glb": "stage-4.glb",
      "part": null,
      "label": null,
-     "bytes": 181568
+     "bytes": 181528
     }
    ]
   },
@@ -69,7 +69,7 @@
      "glb": "stage-5.glb",
      "part": null,
      "label": null,
-     "bytes": 166888
+     "bytes": 165652
     }
    ]
   }
