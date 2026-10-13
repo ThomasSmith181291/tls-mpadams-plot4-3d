@@ -5,7 +5,7 @@
   "job": "MP Adams Plot 4, Eckington",
   "number_prefix": "P4",
   "status": "CONSTRUCTION",
-  "revision": "C03",
+  "revision": "C04",
   "engineer_ref": "26-431-S-0010",
   "engineer_rev": "P01",
   "plan_scale": 75,
@@ -80,6 +80,11 @@
     "C03",
     "11.10.26",
     "FF windows coursed; steel + GP1 portal; steel drawings (ST)"
+   ],
+   [
+    "C04",
+    "13.10.26",
+    "Steel approved by the engineer: steel + steel timber drawings issued for construction"
    ]
   ],
   "model_title": "MP Adams Plot 4 - C03 STEEL WORKING 5"
@@ -242,9 +247,9 @@
   }
  ],
  "download_all": {
-  "file": "downloads/MP Adams Plot 4 - Construction Issue C03.zip",
-  "bytes": 26700110,
-  "count": 61,
+  "file": "downloads/MP Adams Plot 4 - Construction Issue C04.zip",
+  "bytes": 28329447,
+  "count": 63,
   "title": "Download everything"
  },
  "stages": [
@@ -331,7 +336,7 @@
      "file": "docs/drawings/P4-SP-01 Ground Floor Sole Plate Setting Out.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-SP-01.png",
-     "bytes": 175187,
+     "bytes": 175268,
      "number": "P4-SP-01",
      "view": "stage-1",
      "view_opts": {}
@@ -342,7 +347,7 @@
      "file": "docs/drawings/P4-GA-01 Ground Floor General Arrangement.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-GA-01.png",
-     "bytes": 881062,
+     "bytes": 881140,
      "number": "P4-GA-01",
      "view": "stage-2",
      "view_opts": {}
@@ -353,7 +358,7 @@
      "file": "docs/drawings/P4-FL-01 First Floor Structure.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-FL-01.png",
-     "bytes": 174879,
+     "bytes": 175039,
      "number": "P4-FL-01",
      "view": "stage-3",
      "view_opts": {
@@ -366,7 +371,7 @@
      "file": "docs/drawings/P4-GA-02 First Floor General Arrangement.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-GA-02.png",
-     "bytes": 171453,
+     "bytes": 171543,
      "number": "P4-GA-02",
      "view": "stage-4",
      "view_opts": {}
@@ -377,7 +382,7 @@
      "file": "docs/drawings/P4-GA-03 Gable Panels Layout.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-GA-03.png",
-     "bytes": 157958,
+     "bytes": 158049,
      "number": "P4-GA-03",
      "view": "stage-5",
      "view_opts": {}
@@ -388,7 +393,7 @@
      "file": "docs/drawings/P4-GA-04 Gable Panel Elevations.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-GA-04.png",
-     "bytes": 161747,
+     "bytes": 161817,
      "number": "P4-GA-04",
      "view": "stage-5",
      "view_opts": {}
@@ -399,7 +404,7 @@
      "file": "docs/drawings/P4-RF-01 Roof Ceiling Level.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-RF-01.png",
-     "bytes": 168337,
+     "bytes": 168411,
      "number": "P4-RF-01",
      "view": "stage-5",
      "view_opts": {}
@@ -410,7 +415,7 @@
      "file": "docs/drawings/P4-RF-02 Roof Truss Layout.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-RF-02.png",
-     "bytes": 168826,
+     "bytes": 168902,
      "number": "P4-RF-02",
      "view": "stage-5",
      "view_opts": {}
@@ -421,7 +426,7 @@
      "file": "docs/drawings/P4-RF-03 Truss Profiles.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-RF-03.png",
-     "bytes": 161556,
+     "bytes": 161636,
      "number": "P4-RF-03",
      "view": "stage-5",
      "view_opts": {}
@@ -432,7 +437,7 @@
      "file": "docs/drawings/P4-SE-01 Section A-A.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-SE-01.png",
-     "bytes": 159853,
+     "bytes": 159921,
      "number": "P4-SE-01",
      "view": "section-A",
      "view_opts": {}
@@ -443,7 +448,7 @@
      "file": "docs/drawings/P4-SE-02 Section B-B.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-SE-02.png",
-     "bytes": 156964,
+     "bytes": 157040,
      "number": "P4-SE-02",
      "view": "section-B",
      "view_opts": {}
@@ -454,7 +459,7 @@
      "file": "docs/drawings/P4-SE-03 Section C-C.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-SE-03.png",
-     "bytes": 157051,
+     "bytes": 157118,
      "number": "P4-SE-03",
      "view": "section-C",
      "view_opts": {}
@@ -465,7 +470,7 @@
      "file": "docs/drawings/P4-SE-04 Section D-D.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-SE-04.png",
-     "bytes": 155674,
+     "bytes": 155753,
      "number": "P4-SE-04",
      "view": "section-D",
      "view_opts": {}
@@ -476,7 +481,7 @@
      "file": "docs/drawings/P4-EL-01 Front Elevation.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-EL-01.png",
-     "bytes": 191059,
+     "bytes": 191144,
      "number": "P4-EL-01",
      "view": "elev-S",
      "view_opts": {}
@@ -487,7 +492,7 @@
      "file": "docs/drawings/P4-EL-02 Side Elevation East.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-EL-02.png",
-     "bytes": 185631,
+     "bytes": 185714,
      "number": "P4-EL-02",
      "view": "elev-E",
      "view_opts": {}
@@ -498,7 +503,7 @@
      "file": "docs/drawings/P4-EL-03 Rear Elevation.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-EL-03.png",
-     "bytes": 192879,
+     "bytes": 192959,
      "number": "P4-EL-03",
      "view": "elev-N",
      "view_opts": {}
@@ -509,7 +514,7 @@
      "file": "docs/drawings/P4-EL-04 Side Elevation West.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-EL-04.png",
-     "bytes": 187532,
+     "bytes": 187618,
      "number": "P4-EL-04",
      "view": "elev-W",
      "view_opts": {}
@@ -518,7 +523,7 @@
    "note": "A3 construction issue. Each sheet's title block QR opens it here.",
    "zip": {
     "file": "downloads/P4 Construction drawings.zip",
-    "bytes": 5619080,
+    "bytes": 5616841,
     "count": 38
    }
   },
@@ -528,22 +533,22 @@
    "docs": [
     {
      "id": "P4-ST-00",
-     "title": "GF steelwork (first-floor zone)",
-     "file": "docs/steel/P4-ST-00 GF steelwork (first-floor zone).pdf",
+     "title": "GP1 garage portal",
+     "file": "docs/steel/P4-ST-00 GP1 garage portal.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-00.png",
-     "bytes": 191878,
+     "bytes": 181305,
      "number": "P4-ST-00",
      "view": "stage-2",
      "view_opts": {}
     },
     {
      "id": "P4-ST-01",
-     "title": "GP1 garage portal",
-     "file": "docs/steel/P4-ST-01 GP1 garage portal.pdf",
+     "title": "GF steelwork (first-floor zone)",
+     "file": "docs/steel/P4-ST-01 GF steelwork (first-floor zone).pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-01.png",
-     "bytes": 181297,
+     "bytes": 190660,
      "number": "P4-ST-01",
      "view": "stage-2",
      "view_opts": {}
@@ -554,7 +559,7 @@
      "file": "docs/steel/P4-ST-PC1 PC1 SHS120x120x10 post fabrication.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-PC1.png",
-     "bytes": 162565,
+     "bytes": 161245,
      "number": "P4-ST-PC1",
      "view": "stage-2",
      "view_opts": {}
@@ -565,7 +570,7 @@
      "file": "docs/steel/P4-ST-PC2 PC2 SHS120x120x10 post fabrication.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-PC2.png",
-     "bytes": 162545,
+     "bytes": 161197,
      "number": "P4-ST-PC2",
      "view": "stage-2",
      "view_opts": {}
@@ -576,7 +581,7 @@
      "file": "docs/steel/P4-ST-SB1 SB1 UB203x102x23 fabrication.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-SB1.png",
-     "bytes": 162527,
+     "bytes": 162576,
      "number": "P4-ST-SB1",
      "view": "stage-2",
      "view_opts": {}
@@ -587,7 +592,7 @@
      "file": "docs/steel/P4-ST-SB2 SB2 UB203x133x25 fabrication.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-SB2.png",
-     "bytes": 164084,
+     "bytes": 164128,
      "number": "P4-ST-SB2",
      "view": "stage-2",
      "view_opts": {}
@@ -598,7 +603,7 @@
      "file": "docs/steel/P4-ST-SB3 SB3 UB203x102x23 fabrication.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-SB3.png",
-     "bytes": 160961,
+     "bytes": 161039,
      "number": "P4-ST-SB3",
      "view": "stage-2",
      "view_opts": {}
@@ -609,7 +614,7 @@
      "file": "docs/steel/P4-ST-SB4 SB4 RHS300x100x12.5 fabrication.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-SB4.png",
-     "bytes": 163031,
+     "bytes": 161616,
      "number": "P4-ST-SB4",
      "view": "stage-2",
      "view_opts": {}
@@ -620,7 +625,7 @@
      "file": "docs/steel/P4-ST-SC1 SC1 SHS100x100x6.3 post fabrication.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-SC1.png",
-     "bytes": 163166,
+     "bytes": 163343,
      "number": "P4-ST-SC1",
      "view": "stage-2",
      "view_opts": {}
@@ -631,7 +636,7 @@
      "file": "docs/steel/P4-ST-SC2 SC2 SHS100x100x6.3 post fabrication.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-SC2.png",
-     "bytes": 163069,
+     "bytes": 163244,
      "number": "P4-ST-SC2",
      "view": "stage-2",
      "view_opts": {}
@@ -642,7 +647,7 @@
      "file": "docs/steel/P4-ST-SC3 SC3 SHS100x100x6.3 post fabrication.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-SC3.png",
-     "bytes": 163196,
+     "bytes": 163370,
      "number": "P4-ST-SC3",
      "view": "stage-2",
      "view_opts": {}
@@ -653,7 +658,7 @@
      "file": "docs/steel/P4-ST-SEC1 Steel member sections.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-SEC1.png",
-     "bytes": 165022,
+     "bytes": 165100,
      "number": "P4-ST-SEC1",
      "view": "stage-2",
      "view_opts": {}
@@ -664,7 +669,7 @@
      "file": "docs/steel/P4-ST-SEC2 Steel member sections.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-SEC2.png",
-     "bytes": 159501,
+     "bytes": 159568,
      "number": "P4-ST-SEC2",
      "view": "stage-2",
      "view_opts": {}
@@ -675,7 +680,7 @@
      "file": "docs/steel/P4-ST-GP1 Garage portal GP1 assembly.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-GP1.png",
-     "bytes": 160326,
+     "bytes": 160016,
      "number": "P4-ST-GP1",
      "view": "stage-2",
      "view_opts": {}
@@ -686,7 +691,7 @@
      "file": "docs/steel/P4-ST-DET Steel connection and coursing details.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-DET.png",
-     "bytes": 161096,
+     "bytes": 161181,
      "number": "P4-ST-DET",
      "view": "stage-2",
      "view_opts": {}
@@ -697,16 +702,16 @@
      "file": "docs/steel/P4-ST-SCH Bolt fixing and timber schedule.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-ST-SCH.png",
-     "bytes": 156155,
+     "bytes": 156227,
      "number": "P4-ST-SCH",
      "view": "stage-2",
      "view_opts": {}
     }
    ],
-   "note": "Steelwork GA, one fabrication sheet per member, connection details and the bolt / timber schedule. Sheets stamped FOR ENGINEERS REVIEW are TLS proposals awaiting the engineer.",
+   "note": "Steelwork GA, one fabrication sheet per member, connection details and the bolt / timber schedule. Approved by the engineer 13.10.26: issued for construction.",
    "zip": {
     "file": "downloads/P4 Steel fabrication drawings.zip",
-    "bytes": 2128901,
+    "bytes": 2125202,
     "count": 16
    }
   },
@@ -720,7 +725,7 @@
      "file": "docs/steel-timber/P4-STT-00 Steel timber packing schedule.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-STT-00.png",
-     "bytes": 154396,
+     "bytes": 154462,
      "number": "P4-STT-00",
      "view": "stage-2",
      "view_opts": {}
@@ -731,7 +736,7 @@
      "file": "docs/steel-timber/P4-STT-01 Timber packing - SB1 packer, SB2 packer, SB2 binder.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-STT-01.png",
-     "bytes": 163670,
+     "bytes": 163725,
      "number": "P4-STT-01",
      "view": "stage-2",
      "view_opts": {}
@@ -742,7 +747,7 @@
      "file": "docs/steel-timber/P4-STT-02 Timber packing - SB2 top plate, SC1 jamb plate.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-STT-02.png",
-     "bytes": 160676,
+     "bytes": 160732,
      "number": "P4-STT-02",
      "view": "stage-2",
      "view_opts": {}
@@ -753,7 +758,7 @@
      "file": "docs/steel-timber/P4-STT-03 Timber packing - SC2 jamb plate, SC3 jamb plate, SB4 packer.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-STT-03.png",
-     "bytes": 160438,
+     "bytes": 160504,
      "number": "P4-STT-03",
      "view": "stage-2",
      "view_opts": {}
@@ -764,16 +769,16 @@
      "file": "docs/steel-timber/P4-STT-04 Timber packing - T10 to T12.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-STT-04.png",
-     "bytes": 159745,
+     "bytes": 159813,
      "number": "P4-STT-04",
      "view": "stage-2",
      "view_opts": {}
     }
    ],
-   "note": "The joiner's drawings of every timber piece bolted to the steel (packers, binders, top plates, jamb plates, ply packers, head binders): cutting list, every hole and counterbore dimensioned. FOR APPROVAL with the steel drawings.",
+   "note": "The joiner's drawings of every timber piece bolted to the steel (packers, binders, top plates, jamb plates, ply packers, head binders): cutting list, every hole and counterbore dimensioned. Issued for construction with the steel drawings.",
    "zip": {
     "file": "downloads/P4 Steel timber packing drawings.zip",
-    "bytes": 644058,
+    "bytes": 644407,
     "count": 5
    }
   },
@@ -837,7 +842,7 @@
      "file": "docs/manufacture/P4-MF GB EX Panels (15).pdf",
      "pages": 15,
      "thumb": "thumbs/P4-MF-GB-EX-Panels-15.png",
-     "bytes": 143935,
+     "bytes": 144037,
      "subtitle": "15 panels, one sheet each",
      "panels": [
       {
@@ -908,7 +913,7 @@
      "file": "docs/manufacture/P4-MF FF EX Panels (22).pdf",
      "pages": 22,
      "thumb": "thumbs/P4-MF-FF-EX-Panels-22.png",
-     "bytes": 234995,
+     "bytes": 235115,
      "subtitle": "22 panels, one sheet each",
      "panels": [
       {
@@ -1007,7 +1012,7 @@
      "file": "docs/manufacture/P4-MF FF IN Panels (16).pdf",
      "pages": 16,
      "thumb": "thumbs/P4-MF-FF-IN-Panels-16.png",
-     "bytes": 190027,
+     "bytes": 190140,
      "subtitle": "16 panels, one sheet each",
      "panels": [
       {
@@ -1082,7 +1087,7 @@
      "file": "docs/manufacture/P4-MF GF EX Panels (37).pdf",
      "pages": 37,
      "thumb": "thumbs/P4-MF-GF-EX-Panels-37.png",
-     "bytes": 405077,
+     "bytes": 405301,
      "subtitle": "37 panels, one sheet each",
      "panels": [
       {
@@ -1241,7 +1246,7 @@
      "file": "docs/manufacture/P4-MF GF IL Panels (5).pdf",
      "pages": 5,
      "thumb": "thumbs/P4-MF-GF-IL-Panels-5.png",
-     "bytes": 89663,
+     "bytes": 89699,
      "subtitle": "5 panels, one sheet each",
      "panels": [
       {
@@ -1272,7 +1277,7 @@
      "file": "docs/manufacture/P4-MF GF IN Panels (7).pdf",
      "pages": 7,
      "thumb": "thumbs/P4-MF-GF-IN-Panels-7.png",
-     "bytes": 109416,
+     "bytes": 109460,
      "subtitle": "7 panels, one sheet each",
      "panels": [
       {
@@ -1309,7 +1314,7 @@
    "note": "Panel fabrication drawings, one sheet per panel, set by level and panel type. Tap a panel mark to open its sheet.",
    "zip": {
     "file": "downloads/P4 Fabrication drawings.zip",
-    "bytes": 948061,
+    "bytes": 948085,
     "count": 6
    }
   },
@@ -1327,6 +1332,15 @@
      "number": "P4-CP-OSB"
     },
     {
+     "id": "P4-CP-OSB",
+     "title": "OSB Cutting Pack C04",
+     "file": "docs/cutting/P4-CP-OSB OSB Cutting Pack C04.pdf",
+     "pages": 102,
+     "thumb": "thumbs/P4-CP-OSB.png",
+     "bytes": 1119259,
+     "number": "P4-CP-OSB"
+    },
+    {
      "id": "P4-CP-PIR",
      "title": "PIR Cutting Pack C03",
      "file": "docs/cutting/P4-CP-PIR PIR Cutting Pack C03.pdf",
@@ -1334,13 +1348,22 @@
      "thumb": "thumbs/P4-CP-PIR.png",
      "bytes": 975073,
      "number": "P4-CP-PIR"
+    },
+    {
+     "id": "P4-CP-PIR",
+     "title": "PIR Cutting Pack C04",
+     "file": "docs/cutting/P4-CP-PIR PIR Cutting Pack C04.pdf",
+     "pages": 74,
+     "thumb": "thumbs/P4-CP-PIR.png",
+     "bytes": 981294,
+     "number": "P4-CP-PIR"
     }
    ],
    "note": "OSB and PIR sheets nested for cutting: one stock sheet per page.",
    "zip": {
     "file": "downloads/P4 Cutting packs.zip",
-    "bytes": 1628797,
-    "count": 2
+    "bytes": 3262622,
+    "count": 4
    }
   },
   {
@@ -1350,23 +1373,23 @@
     {
      "id": "P4-PR-01",
      "title": "Procurement schedule",
-     "file": "docs/procurement/P4-PR-01 Procurement Schedule C03.pdf",
+     "file": "docs/procurement/P4-PR-01 Procurement Schedule C04.pdf",
      "pages": 9,
      "thumb": "thumbs/P4-PR-01.png",
-     "bytes": 174926,
+     "bytes": 174514,
      "number": "P4-PR-01"
     }
    ],
    "downloads": [
     {
      "title": "Procurement schedule (Excel)",
-     "file": "docs/procurement/P4-PR-01 Procurement Schedule C03.xlsx"
+     "file": "docs/procurement/P4-PR-01 Procurement Schedule C04.xlsx"
     }
    ],
    "note": "All materials with waste, split by stock size and by section.",
    "zip": {
     "file": "downloads/P4 Procurement.zip",
-    "bytes": 158124,
+    "bytes": 157741,
     "count": 2
    }
   },
@@ -1380,20 +1403,20 @@
      "file": "docs/issue/P4-QR-01 Build Sequence QR Codes.pdf",
      "pages": 1,
      "thumb": "thumbs/P4-QR-01.png",
-     "bytes": 205400,
+     "bytes": 205490,
      "number": "P4-QR-01"
     }
    ],
    "downloads": [
     {
      "title": "All construction drawings (one PDF)",
-     "file": "docs/issue/P4 Construction Drawings C03 (combined set).pdf"
+     "file": "docs/issue/P4 Construction Drawings C04 (combined set).pdf"
     }
    ],
    "note": "The build sequence QR sheet, the 3D stage files, and every construction drawing in one PDF.",
    "zip": {
     "file": "downloads/P4 QR codes + full set.zip",
-    "bytes": 9627943,
+    "bytes": 9628022,
     "count": 8
    }
   }
